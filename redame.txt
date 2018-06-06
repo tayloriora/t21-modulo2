@@ -1,1 +1,3 @@
+Forçando Conflito
+
 Arquivo de Teste para GIT
