@@ -1,3 +1,4 @@
 Forçando Conflito
-
 Arquivo de Teste para GIT
+Teste em dupla ....
+
