@@ -1,2 +1,2 @@
 Arquivo de Teste para GIT
-Teste em dupla 
+Teste em dupla ....
